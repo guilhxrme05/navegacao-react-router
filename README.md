@@ -1,2 +1,4 @@
-# navegacao-react-router
-Template de navegação em react com react-router-dom
+Instalar React Router DOM
+
+```bash
+npm install react-router-dom
